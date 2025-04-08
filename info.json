@@ -1,1 +1,101 @@
-
+{
+    "caseDetails": {
+        "defendant": "Tayvon Gregory Williams",
+        "caseNumber": "2024CF002374A",
+        "caseStyle": "STATE OF FLORIDA VS WILLIAMS, TAYVON GREGORY",
+        "caseType": "CF - FELONY",
+        "caseStatus": "CLOSED",
+        "presidingJudge": "Hon. RUDISILL, MICHAEL J",
+        "clerksFileDate": "September 23, 2024",
+        "arrestDate": "September 23, 2024",
+        "speedyTrialWaived": "YES",
+        "agency": "Sanford Police Dept.",
+        "agencyRptNumber": "202420001783",
+        "caseBondAmount": "50000.00",
+        "finalPlea": "NOLO-CONTENDERE"
+    },
+    "partyInfo": {
+        "defendant": "Tayvon Gregory Williams",
+        "dob": "11-15-2006",
+        "courtDate": "February 3, 2025",
+        "race": "BLACK",
+        "sex": "M",
+        "eyeColor": "BROWN",
+        "hairColor": "BLACK",
+        "height": "5 ft 09 in",
+        "weight": "150",
+        "attorney": "CONNOR, TAYLOR O'NEIL",
+        "attorneyType": "PUBLIC DEFENDER",
+        "barNumber": "1021675",
+        "email": "PDSANFORD@PD18.NET",
+        "address": "91 ESLINGER WAY, 2ND FLOOR, SANFORD, FL 32773"
+    },
+    "charges": [
+        {
+            "title": "CHARGE 1 - 1st DEGREE FELONY - 782.051(2) - ATTEMPTED FELONY MURDER (PBL)",
+            "disposition": "FOUND NOT GUILTY (02/03/2025)",
+            "arrestDetails": {
+                "offenseDate": "09/23/2024",
+                "status": "ARREST",
+                "bondAmount": "2500.00"
+            },
+            "prosecutionDetails": {
+                "status": "N/A",
+                "finalDecisionDate": "09/03/2024",
+                "finalAction": "NO ACTION"
+            }
+        },
+        {
+            "title": "CHARGE 2 - 1st DEGREE FELONY - 812.13(2)(A) - ROBBERY WITH A FIREARM (PBL)",
+            "disposition": "ADJUDICATED GUILTY (02/03/2025)",
+            "arrestDetails": {
+                "offenseDate": "09/23/2024",
+                "status": "ARREST",
+                "bondAmount": "2500.00"
+            },
+            "prosecutionDetails": {
+                "status": "ARREST",
+                "finalDecisionDate": "02/03/2025",
+                "finalAction": "ADJUDICATED GUILTY"
+            }
+        },
+        {
+            "title": "CHARGE 3 - 3rd DEGREE FELONY - 784.021(1)(A) - AGG ASSLT W/DEAD WPN",
+            "disposition": "ADJUDICATED GUILTY (02/03/2025)",
+            "arrestDetails": {
+                "offenseDate": "09/23/2024",
+                "status": "ARREST",
+                "bondAmount": "2500.00"
+            },
+            "prosecutionDetails": {
+                "status": "ARREST",
+                "finalDecisionDate": "02/03/2025",
+                "finalAction": "ADJUDICATED GUILTY"
+            }
+        },
+        {
+            "title": "CHARGE 4 - N/A, LEVEL IS INFRACTION, COUNTY, MUNICIPAL ORDINANCE - 901.04 - SEMINOLE COUNTY WARRANT",
+            "disposition": "()",
+            "arrestDetails": {
+                "offenseDate": "09/23/2024",
+                "status": "ARREST",
+                "bondAmount": "N/A"
+            },
+            "prosecutionDetails": {
+                "status": "ARREST",
+                "finalDecisionDate": "02/03/2025",
+                "finalAction": "N/A"
+            }
+        }
+    ],
+    "sentences": [
+        {
+            "description": "Committed to the Department of Juvenile Justice (DJJ) - [Max] Residential Program",
+            "effectiveDate": "02/03/2025"
+        },
+        {
+            "description": "Post-commitment probation ordered 6 MONTHS",
+            "effectiveDate": null
+        }
+    ]
+}
