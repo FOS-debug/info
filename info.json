@@ -73,22 +73,8 @@
                 "finalAction": "ADJUDICATED GUILTY"
             }
         },
-                {
-            "title": "CHARGE 4 - 3rd DEGREE FELONY - 784.021(1)(A) - AGG ASSLT W/DEAD WPN",
-            "disposition": "ADJUDICATED GUILTY (02/03/2025)",
-            "arrestDetails": {
-                "offenseDate": "09/23/2024",
-                "status": "ARREST",
-                "bondAmount": "2500.00"
-            },
-            "prosecutionDetails": {
-                "status": "ARREST",
-                "finalDecisionDate": "02/03/2025",
-                "finalAction": "ADJUDICATED GUILTY"
-            }
-        },
         {
-            "title": "CHARGE 5 - N/A, LEVEL IS INFRACTION, COUNTY, MUNICIPAL ORDINANCE - 901.04 - SEMINOLE COUNTY WARRANT",
+            "title": "CHARGE 4 - N/A, LEVEL IS INFRACTION, COUNTY, MUNICIPAL ORDINANCE - 901.04 - SEMINOLE COUNTY WARRANT",
             "disposition": "()",
             "arrestDetails": {
                 "offenseDate": "09/23/2024",
