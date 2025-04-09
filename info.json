@@ -32,7 +32,7 @@
     },
     "charges": [
         {
-            "title": "CHARGE 1 - 1st DEGREE FELONY - 782.051(2) - ATTEMPTED FELONY MURDER (PBL)",
+            "title": "CHARGE 1 - 1st DEGREE FELONY - 812.13(2)(A) - ROBBERY WITH A FIREARM (PBL)",
             "disposition": "()",
             "arrestDetails": {
                 "offenseDate": "09/23/2024",
@@ -46,7 +46,7 @@
             }
         },
         {
-            "title": "CHARGE 2 - 1st DEGREE FELONY - 812.13(2)(A) - ROBBERY WITH A FIREARM (PBL)",
+            "title": "CHARGE 2 - 3rd DEGREE FELONY - 784.021(1)(A) - AGG ASSLT W/DEAD WPN",
             "disposition": "()",
             "arrestDetails": {
                 "offenseDate": "09/23/2024",
@@ -60,21 +60,22 @@
             }
         },
         {
-            "title": "CHARGE 3 - 3rd DEGREE FELONY - 784.021(1)(A) - AGG ASSLT W/DEAD WPN",
+            "title": "CHARGE 3 - N/A, LEVEL IS INFRACTION, COUNTY, MUNICIPAL ORDINANCE - 901.04 - SEMINOLE COUNTY WARRANT",
             "disposition": "()",
             "arrestDetails": {
                 "offenseDate": "09/23/2024",
-                "status": "PENDING",
-                "bondAmount": "00.00"
+                "status": "ARREST",
+                "bondAmount": "N/A"
             },
             "prosecutionDetails": {
-                "status": "N/A",
+                "status": "ARREST",
                 "finalDecisionDate": "N/A",
                 "finalAction": "N/A"
             }
-        },
+        }
         {
-            "title": "CHARGE 4 - N/A, LEVEL IS INFRACTION, COUNTY, MUNICIPAL ORDINANCE - 901.04 - SEMINOLE COUNTY WARRANT",
+            "title": "CHARGE 4 - N/A - 985.101 1d - VIOLATION OF EMPACT GPS/HD",
+",
             "disposition": "()",
             "arrestDetails": {
                 "offenseDate": "09/23/2024",
